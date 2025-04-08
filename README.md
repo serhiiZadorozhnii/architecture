@@ -8,19 +8,19 @@
 ```
 project
   lib
-    ###core
+    core
       extentions
       theme
       utils
-    ###data
+    data
       datastore
       repositories
-    ###domain
+    domain
       datastore
       repositories
-    ###router
-    ###generated
-    ###presantation
+    router
+    generated
+    presantation
       components
       features
         feature_1
