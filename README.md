@@ -30,6 +30,7 @@ project
 
 ## Screen example
 
+```
 @RoutePage()
 class FaqScreen extends StatelessWidget implements AutoRouteWrapper {
   const FaqScreen({super.key});
@@ -52,3 +53,4 @@ class FaqScreen extends StatelessWidget implements AutoRouteWrapper {
     return Scaffold();
   }
 }
+```
