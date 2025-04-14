@@ -7,7 +7,7 @@ Example: auracle dev 2.1.2+29.apk
 
 ## Media extentions priority:
 1. SVG
-2. WEBR
+2. WEBP
 
 ## Folders:
 ```
