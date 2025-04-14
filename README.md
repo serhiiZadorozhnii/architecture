@@ -5,8 +5,6 @@
 Example: auracle dev 2.1.2+29.apk
 
 
-# architecture
-
 ## Media extentions priority:
 1. SVG
 2. WEBR
@@ -38,7 +36,6 @@ project
 
 #### Feature Structure
 
-Basic feature structure
 
 ```
 foo/
