@@ -146,3 +146,8 @@ We follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0
 - **Assignees**: Assign yourself to the PR
 - **Dependencies**: If the PR depends on another PR, mention it in the description
 - **Merge**: Wait for at least one approval before merging
+
+
+## Check before creating PR:
+1. Fix everything the analyzer finds
+<img width="1106" alt="Знімок екрана 2025-04-14 о 10 50 00" src="https://github.com/user-attachments/assets/679f01fc-c389-484d-9a0c-7d0d744775f0" />
